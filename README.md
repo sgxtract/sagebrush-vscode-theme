@@ -11,7 +11,7 @@ A warm, organic, and comfortable dark color theme for Visual Studio Code, inspir
 ## 🚀 How to Install
 
 ### Option 1: Manual Installation (Recommended)
-1. Go to the [Releases](https://github.com) page of this repository.
+1. Go to the [Releases](https://github.com/sgxtract/sagebrush-vscode-theme/releases) page of this repository.
 2. Download the latest `.vsix` file (e.g., `sagebrush-theme-0.0.1.vsix`).
 3. Open Visual Studio Code.
 4. Open the Extensions View (`Ctrl+Shift+X` or `Cmd+Shift+X`).
