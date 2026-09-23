@@ -1,4 +1,4 @@
-# Sagebrush — VS Code Theme
+# Sagebrush - VS Code Theme
 
 A warm, organic, and comfortable dark color theme for Visual Studio Code, inspired by the soothing earth-toned palettes used by modern chat interfaces like ChatGPT. Designed to reduce eye strain using soft greens, warm backgrounds, and muted syntax highlights.
 
